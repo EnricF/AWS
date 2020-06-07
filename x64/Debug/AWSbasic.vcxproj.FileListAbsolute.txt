@@ -1,0 +1,8 @@
+F:\workspace\Projects\AWSbasic\AWSbasic\x64\Debug\AWSbasic.vcxproj.CopyComplete
+F:\workspace\Projects\AWSbasic\AWSbasic\x64\Debug\AWSbasic.exe
+F:\workspace\Projects\AWSbasic\AWSbasic\x64\Debug\AWSbasic.pdb
+F:\workspace\Projects\AWSbasic\AWSbasic\x64\Debug\aws-cpp-sdk-core.dll
+F:\workspace\Projects\AWSbasic\AWSbasic\x64\Debug\aws-c-event-stream.dll
+F:\workspace\Projects\AWSbasic\AWSbasic\x64\Debug\aws-c-common.dll
+F:\workspace\Projects\AWSbasic\AWSbasic\x64\Debug\aws-checksums.dll
+F:\workspace\Projects\AWSbasic\AWSbasic\x64\Debug\aws-cpp-sdk-s3.dll

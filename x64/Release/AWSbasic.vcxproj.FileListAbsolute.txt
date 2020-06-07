@@ -1,0 +1,6 @@
+F:\workspace\Projects\AWSbasic\AWSbasic\x64\Release\AWSbasic.vcxproj.CopyComplete
+F:\workspace\Projects\AWSbasic\AWSbasic\x64\Release\AWSbasic.exe
+F:\workspace\Projects\AWSbasic\AWSbasic\x64\Release\aws-cpp-sdk-core.dll
+F:\workspace\Projects\AWSbasic\AWSbasic\x64\Release\aws-c-event-stream.dll
+F:\workspace\Projects\AWSbasic\AWSbasic\x64\Release\aws-c-common.dll
+F:\workspace\Projects\AWSbasic\AWSbasic\x64\Release\aws-checksums.dll
